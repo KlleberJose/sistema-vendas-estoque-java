@@ -1,0 +1,4 @@
+# Copie para db.properties (nao versionado) e ajuste os valores.
+db.url=jdbc:mysql://localhost:3306/sistemaestoque
+db.user=root
+db.password=
